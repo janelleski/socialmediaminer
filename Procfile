@@ -1,0 +1,1 @@
+web:    java $JAVA_OPTS -jar target/dependency/socialmediaminer.jar --port $PORT target/*.war
